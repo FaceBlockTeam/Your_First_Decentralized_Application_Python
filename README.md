@@ -1,4 +1,5 @@
-# Your_First_Decentralized_Application_Python
+# Use this code to support people to release smart contracts
+
 
 This code borrows heavily from [llSourcell's turtorial](https://github.com/llSourcell/Your_First_Decentralized_Application) which in turn borrows heavily from [maheshmurthy's tutorial.](https://github.com/maheshmurthy/ethereum_voting_dapp)
 
